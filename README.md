@@ -11,3 +11,15 @@
 - Tope por pago: $0.02. Lo que lo excede se rechaza sin transacción.
 - Pago del agente a mi API: 
 - Verlo: https://stellar.expert/explorer/testnet/tx/
+
+## Mi verificador
+- Pago que verifiqué con RPC: 
+
+## Mi verificador
+- Pago que verifiqué con RPC: 
+
+## Mi verificador
+- Pago que verifiqué con RPC: 
+
+## Mi verificador
+- Pago que verifiqué con RPC: 
